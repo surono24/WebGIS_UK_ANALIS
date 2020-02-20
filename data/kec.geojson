@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "titikkecamatan2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID_1": 87, "KODE_UNSUR": "10226", "NAMA_UNSUR": "Kantor Camat", "TOPONIM": "Tikala", "PELAKSANA": "PT. Cakrabumi Envirodata", "UPDATED": "20130715", "OBJECTID": 0, "Ibukota": null }, "geometry": { "type": "Point", "coordinates": [ 124.855714008591463, 1.479577986731781, 79.123800000001211 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 88, "KODE_UNSUR": "10226", "NAMA_UNSUR": "Kantor Camat", "TOPONIM": "Sario", "PELAKSANA": "PT. Cakrabumi Envirodata", "UPDATED": "20130715", "OBJECTID": 0, "Ibukota": null }, "geometry": { "type": "Point", "coordinates": [ 124.833299958588455, 1.470148007338443, 81.828599999993457 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 90, "KODE_UNSUR": "10226", "NAMA_UNSUR": "Kantor Camat", "TOPONIM": "Malalayang", "PELAKSANA": "PT. Cakrabumi Envirodata", "UPDATED": "20130715", "OBJECTID": 0, "Ibukota": null }, "geometry": { "type": "Point", "coordinates": [ 124.817232670880784, 1.454730284234005, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 91, "KODE_UNSUR": "10226", "NAMA_UNSUR": "Kantor Camat", "TOPONIM": "Wenang", "PELAKSANA": "PT. Cakrabumi Envirodata", "UPDATED": "20130715", "OBJECTID": 0, "Ibukota": null }, "geometry": { "type": "Point", "coordinates": [ 124.846594533921689, 1.482601229058861, 17.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 92, "KODE_UNSUR": "10226", "NAMA_UNSUR": "Kantor Camat", "TOPONIM": "Wanea", "PELAKSANA": "PT. Cakrabumi Envirodata", "UPDATED": "20130715", "OBJECTID": 0, "Ibukota": null }, "geometry": { "type": "Point", "coordinates": [ 124.842098110589561, 1.465337885732004, 27.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 93, "KODE_UNSUR": "10226", "NAMA_UNSUR": "Kantor Camat", "TOPONIM": "Singkil", "PELAKSANA": "PT. Cakrabumi Envirodata", "UPDATED": "20130715", "OBJECTID": 0, "Ibukota": null }, "geometry": { "type": "Point", "coordinates": [ 124.845776952484798, 1.497659105946133, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 95, "KODE_UNSUR": "10226", "NAMA_UNSUR": "Kantor Camat", "TOPONIM": "Pal Dua", "PELAKSANA": "PT. Cakrabumi Envirodata", "UPDATED": "20130715", "OBJECTID": 0, "Ibukota": null }, "geometry": { "type": "Point", "coordinates": [ 124.869066283896075, 1.475526933756609, 19.3522 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 111, "KODE_UNSUR": "10226", "NAMA_UNSUR": "Kantor Camat", "TOPONIM": "Bunaken", "PELAKSANA": "PT. Cakrabumi Envirodata", "UPDATED": "20130715", "OBJECTID": 0, "Ibukota": null }, "geometry": { "type": "Point", "coordinates": [ 124.836884225238421, 1.533543648377578, 28.244300000005751 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 112, "KODE_UNSUR": "10226", "NAMA_UNSUR": "Kantor Camat", "TOPONIM": "Tuminting", "PELAKSANA": "PT. Cakrabumi Envirodata", "UPDATED": "20130715", "OBJECTID": 0, "Ibukota": null }, "geometry": { "type": "Point", "coordinates": [ 124.848485869945634, 1.509352116819926, 4.932400000005146 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 115, "KODE_UNSUR": "10226", "NAMA_UNSUR": "Kantor Camat", "TOPONIM": "Mapanget", "PELAKSANA": "PT. Cakrabumi Envirodata", "UPDATED": "20130715", "OBJECTID": 0, "Ibukota": null }, "geometry": { "type": "Point", "coordinates": [ 124.90837398933219, 1.508004960101608, 291.301999999996042 ] } }
+]
+}
